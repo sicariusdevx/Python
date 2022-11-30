@@ -22,22 +22,25 @@ https://www.codedex.io/
 
 ## Tipos de datos
 
-+int
-+float
-+chr
-+str
-+bool
++ int
++ float
++ chr
++ str
++ bool
 
 ## Variables 
-+acumulativas (almacenan valores a partir de sumas sucesivas)
-+trabajo (contienen fórmulas y/o funciones)
-+contadores (secuencia en aumento)
++ acumulativas (almacenan valores a partir de sumas sucesivas)
++ trabajo (contienen fórmulas y/o funciones)
++ contadores (secuencia en aumento)
 
 Sintaxis
-this_is_snake_case  Este es el que se utiliza en Python
-PascalCaseExample
-camelCaseExample
-kebab-case-example
+- this_is_snake_case  Este es el que se utiliza en Python
+
+- PascalCaseExample
+
+- camelCaseExample
+
+- kebab-case-example
 
 
 ## Funciones
