@@ -18,6 +18,10 @@ https://www.learnpython.org/es/
 
 https://www.codedex.io/
 
+https://learn.grasshopper.app/      Javascript
+
+https://www.online-python.com/     IDE para python
+
 # Unidad 1
 
 ## Tipos de datos
@@ -50,6 +54,32 @@ Sintaxis: palabraReservada(arg1,arg2,arg3,...)
 ## Importar funciones
 
 from nombreLibrería import función1, función2,...
+
+librerías importantes
++ math        funciones matemáticas
++ datetime    funciones de tiempo
++ random
+
+## Tipo de datos
+Cadena(string): utilizaremos el formato f-string para convertir a cadena
+
+```
+f 'cadena de texto {variable1} cadena de texto {variable2}'
+```
+
+https://realpython.com/python-f-strings/
+
+### Métodos relevantes:
+
+.title()  
+
+## Listas, Tuplas y diccionarios
+
++ Tuplas. Se escriben con corchetes y no piueden modificarse.
++ Listas. Se escriben con paréntesis y se pueden modificar.
++ Diccionarios. Conjuntos a pares de elementos. un identificador y su valor
+
+
 
 ## Práctica 1
 
