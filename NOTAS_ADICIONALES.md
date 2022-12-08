@@ -57,8 +57,10 @@ from nombreLibrería import función1, función2,...
 
 librerías importantes
 + math        funciones matemáticas
-+ datetime    funciones de tiempo
-+ random
++ datetime    formatos de tiempo
++ time        funciones de tiempo
++ random      funciones aleatorias
++ 
 
 ## Tipo de datos
 Cadena(string): utilizaremos el formato f-string para convertir a cadena
@@ -79,9 +81,28 @@ https://realpython.com/python-f-strings/
 + Listas. Se escriben con paréntesis y se pueden modificar.
 + Diccionarios. Conjuntos a pares de elementos. un identificador y su valor
 
-
-
 ## Práctica 1
 
 https://colab.research.google.com/github/sicariusdevx/Python/blob/main/02.ENTREROS_Y_REALES/int_y_float.ipynb#scrollTo=ZcNt0zNY7xEs
 
+# Operadores
+
+## Operadores de Python
+
+https://www.programiz.com/python-programming/operators
+
+## Estructuras de control u Operadores relacionles
+
+IF
+
+Se puede utilizar if para comprobar que en la captura de información el usuario no meta cadenas vacías
+Al preguntar con var_captura cualquier valor que contenga devuelve TRUE y si está en null devuelve FALSE
+
+if var_captura:
+  lista.append(var_captura)
+
+FOR   sintaxis:  for var_iteración in lista_iterable:
+
++ La var_iteración no necesita ser inicializada. Es una variable local del for y es buena práctica darle una especificación que dé a entender sobre qué elementos va a iterar
++ función range([valor_inicial],valor_limite,[salto])  crea una lista de rango, valor límite no se abarca al momento de recorrerlo
++ 
