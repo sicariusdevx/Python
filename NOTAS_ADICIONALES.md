@@ -22,6 +22,8 @@ https://learn.grasshopper.app/      Javascript
 
 https://www.online-python.com/     IDE para python
 
+https://www.kaggle.com/     Jupiter notebooks con análisis de datos (subsidiaria de Google)
+
 # Unidad 1
 
 ## Tipos de datos
